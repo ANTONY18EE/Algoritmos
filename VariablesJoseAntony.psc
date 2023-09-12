@@ -1,4 +1,4 @@
-Algoritmo ejemplo01
+Algoritmo Variables
 	Definir Nombre Como Caracter
 	Definir Apellidos Como Caracter
 	Definir  Pago1 , Pago2, Total Como Entero
